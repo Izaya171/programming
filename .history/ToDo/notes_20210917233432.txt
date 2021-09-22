@@ -1,0 +1,14 @@
+title to task
+author to startDate
+isbn to dueDate
+
+static displayBooks to displayTodos
+
+books to todos
+getBooks to getTodos
+addBookToList to addTodoToList
+book-list to todo-list
+deleteBook to deleteTodo
+book-form to todo-form
+addBook to addTodo
+removeBook to removeTodo
